@@ -38,6 +38,7 @@ const Home = () => {
             <div className="d-flex gap-3 justify-content-center justify-content-md-start">
               <a href="/login" className="btn btn-primary px-4 btn-lg animate__animated animate__pulse animate__infinite">Login</a>
               <a href="/signup" className="btn btn-outline-primary px-4 btn-lg">Signup</a>
+              <a href="/Dashboard" className="btn btn-outline-primary px-4 btn-lg">Skip</a>
             </div>
           </div>
 

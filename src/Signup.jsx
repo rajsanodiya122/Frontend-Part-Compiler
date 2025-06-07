@@ -22,7 +22,7 @@ const Signup = () => {
   return (
     <div className="d-flex justify-content-center align-items-center vh-100 bg-light">
       <div className="card shadow-lg p-4" style={{ maxWidth: '400px', width: '100%' }}>
-        <h2 className="text-center text-success mb-4">Signup to Code Drive</h2>
+        <h2 className="text-center text-success mb-4">Signup to CodeFlow</h2>
         <form onSubmit={handleChange}>
           <div className="mb-3">
             <input
